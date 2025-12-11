@@ -17,23 +17,31 @@ This project allows donors to register, users to search for available donors, an
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
-![Screenshot 1](https://images.unsplash.com/photo-1535827841776-24afc1e255ac?auto=format&fit=crop&w=1200&q=60)
+### 🏠 Home / Dashboard
+![Home Screen 1](https://cdn.dribbble.com/userupload/36965551/file/original-5bb6cad0db3064e3572e2e9c4a19ad50.png)
+![Home Screen 2](https://i.pinimg.com/736x/c8/5b/ca/c85bca4a27550948b51b1fec09146c84.jpg)
+![Home Screen 3](https://media.licdn.com/dms/image/v2/D4D12AQH6ZmgI2aKbIw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1659265698520?e=2147483647&t=z6W9WnkYVbAAWc9gNWWV0MzE5XT6D445d1RhWMFHoN8)
 
 ---
 
 ### 📝 Donor Registration
-![Screenshot 2](https://images.unsplash.com/photo-1576678927484-cc907957088c?auto=format&fit=crop&w=1200&q=60)
+![Registration Screen 1](https://cdn.jotfor.ms/templates/screenshot/form-templates/blood-donation-form.png)
+![Registration Screen 2](https://s3-alpha.figma.com/hub/file/2214790064414041551/3ae1c2ac-001e-4118-8b6a-2de5c58cd428-cover.png)
+![Registration Screen 3](https://cdn.jotfor.ms/templates/screenshot/form-templates/online-donation-form.png)
 
 ---
 
 ### 🔍 Search Donors
-![Screenshot 3](https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=60)
+![Search Screen 1](https://cdn.dribbble.com/userupload/27466413/file/original-f7b568e9674223cdd71f5c1a916a9fdd.png)
+![Search Screen 2](https://www.bio-rad.com/sites/default/files/2023-04/DG23-0129-Applications-BloodTyping-US-Images-03d.png)
+![Search Screen 3](https://media.licdn.com/dms/image/v2/D4D12AQH6ZmgI2aKbIw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1659265698520?e=2147483647&t=z6W9WnkYVbAAWc9gNWWV0MzE5XT6D445d1RhWMFHoN8)
 
 ---
 
 ### 📋 Donor List / Results
-![Screenshot 4](https://images.unsplash.com/photo-1615461066841-a299c6ba953d?auto=format&fit=crop&w=1200&q=60)
+![Donor List 1](https://ps.w.org/idonate/assets/screenshot-1.png?rev=3156211)
+![Donor List 2](https://phpgurukul.com/wp-content/uploads/2017/07/BBDMS-_-Donor-List.png)
+![Donor List 3](https://givewp.com/wp-content/uploads/2021/03/Donor-Dashboard-Overview-1024x834.png)
 
 ---
 
