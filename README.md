@@ -25,16 +25,16 @@ This project allows donors to register, users to search for available donors, an
 ---
 
 ### 📝 Donor Registration
-![Registration Screen 1](https://cdn.jotfor.ms/templates/screenshot/form-templates/blood-donation-form.png)
-![Registration Screen 2](https://s3-alpha.figma.com/hub/file/2214790064414041551/3ae1c2ac-001e-4118-8b6a-2de5c58cd428-cover.png)
-![Registration Screen 3](https://cdn.jotfor.ms/templates/screenshot/form-templates/online-donation-form.png)
+![Registration Screen 1](https://cdn.jotfor.ms/templates/screenshot/form-templates/blood-donation-form.png)<br>
+![Registration Screen 2](https://s3-alpha.figma.com/hub/file/2214790064414041551/3ae1c2ac-001e-4118-8b6a-2de5c58cd428-cover.png)<br>
+![Registration Screen 3](https://cdn.jotfor.ms/templates/screenshot/form-templates/online-donation-form.png)<br>
 
 ---
 
 ### 🔍 Search Donors
-![Search Screen 1](https://cdn.dribbble.com/userupload/27466413/file/original-f7b568e9674223cdd71f5c1a916a9fdd.png)
-![Search Screen 2](https://www.bio-rad.com/sites/default/files/2023-04/DG23-0129-Applications-BloodTyping-US-Images-03d.png)
-![Search Screen 3](https://media.licdn.com/dms/image/v2/D4D12AQH6ZmgI2aKbIw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1659265698520?e=2147483647&t=z6W9WnkYVbAAWc9gNWWV0MzE5XT6D445d1RhWMFHoN8)
+![Search Screen 1](https://cdn.dribbble.com/userupload/27466413/file/original-f7b568e9674223cdd71f5c1a916a9fdd.png)<br>
+![Search Screen 2](https://www.bio-rad.com/sites/default/files/2023-04/DG23-0129-Applications-BloodTyping-US-Images-03d.png)<br>
+![Search Screen 3](https://media.licdn.com/dms/image/v2/D4D12AQH6ZmgI2aKbIw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1659265698520?e=2147483647&t=z6W9WnkYVbAAWc9gNWWV0MzE5XT6D445d1RhWMFHoN8)<br>
 
 ---
 
